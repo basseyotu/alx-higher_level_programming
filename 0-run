@@ -1,3 +1,2 @@
-#!/usr/bin/python3
-print("py/0x00$)
-
+#!/bin/bash
+python $PYFILE
